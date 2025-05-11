@@ -9,7 +9,7 @@ Aplikacja webowa do analizy tras GPX, która umożliwia:
 
 1. Sklonuj repozytorium:
 ```bash
-git clone [URL_REPOZYTORIUM]
+git clone https://github.com/adamWEST11235/GPX_analysis.git
 ```
 
 2. Zainstaluj wymagane zależności:
